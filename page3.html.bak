@@ -33,7 +33,7 @@
 <style>
 </body>
 </html>
-body {background-color: grey;}
+body {background-color: grey;
 	h1   {
 	color: orange;
 	font-size: 230%;}
@@ -43,8 +43,8 @@ body {background-color: grey;}
 	p {
 	color: pink;
 	font-family: Trebuchet;
-	 border: 2px solid coral;} 
-	 </style>
+	 border: 2px solid coral;}}
+	 </style
 	 <title>Hamster Species</title>
 	 </head>
      
