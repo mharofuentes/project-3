@@ -43,17 +43,7 @@
     float: none;
     width: 100%;
   }}
-
-</style>
-</head>
-<body>
-
-<div class="topnav">
-  <a href="index.html">Homepage</a>
-  <a href="resume.html">Resume</a>
-  <a href="page3.html">Hamster Species</a>
-</div>
-	body {background-color: grey;}
+  	body {background-color: grey;}
 	h1   {
 	color: orange;
 	font-size: 230%;}
@@ -64,7 +54,14 @@
 	color: pink;
 	font-family: Trebuchet;
 	 border: 2px solid coral;} 
+</head>
+<body>
 
+<div class="topnav">
+  <a href="index.html">Homepage</a>
+  <a href="resume.html">Resume</a>
+  <a href="page3.html">Hamster Species</a>
+</div>
 	 </style>
 	 <meta charset="UTF-8">
 	 <title>Hamster Species</title>
@@ -92,9 +89,9 @@
 	     
 	     <h2 style="font-size:5vw"><em>Cambell Russian Hamster</em></h2>
 	      <img src="images/images/campbellham.jpg" alt="A Dark Grey Campbell" style="max-width:100%;height:auto;">
-	      <p style="font-size:10vw"> Traits: shy, affectionate, likes extremely quiet places, like hiding </p>
-	      <p style="font-size:10vw">Average lifespan: 1.5-2 years </p>
-	      <p style="font-size:10vw">Average size: 2-4 years </p>
+	      <p style="font-size:3vw"> Traits: shy, affectionate, likes extremely quiet places, like hiding </p>
+	      <p style="font-size:3vw">Average lifespan: 1.5-2 years </p>
+	      <p style="font-size:3vw">Average size: 2-4 years </p>
 	    
 	     <h2 style="font-size:5vw">Hamster housing</h2>
 	       <ul>
