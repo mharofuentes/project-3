@@ -1,14 +1,5 @@
 <html>
   <head>
-  <body>
-	<nav>
-        <ul>
-          <li><a href="index.html">Homepage</a></li>
-          <li><a href="resume.html">Resume</a></li>
-          <li><a href="page3.html">Hamster Species</a></li>
-		  <li><a href="apimap.html">Google Maps</a></li>
-        </ul>
-      </nav>
     <title>Add Map</title>
     <script src="https://polyfill.io/v3/polyfill.min.js?features=default"></script>
 
