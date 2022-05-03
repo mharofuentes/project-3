@@ -16,6 +16,8 @@
 	</style>
     <meta charset="UTF-8">
     <title>Homepage</title>
+	<script type="text/javascript">
+	</script>
 
 	</head>
 	<body>
@@ -56,5 +58,6 @@
 	   <li> time management</li>
 	  </ul>
       
-  </body>
+</script>
+ </body>
 </html>
