@@ -23,6 +23,8 @@
   
 	 <meta charset="UTF-8">
     <title>Resume</title>
+	<script type="text/javascript">
+	</script>
 	</head>
       <nav>
         <ul>
@@ -42,6 +44,8 @@
         <li>Bachelors: Information Technology and Management</li>
 		<li>Illinois Institute of Technology (expected graduation: Spring 2023)</li>
 		<li> Related course work: Java,Python,SQL,Project Management, Network Admin, Enterprise End-User Sys Admin 
+		<!--The div element for the map -->
+		<div id="map"></div>
 		
 	</ul>
       <h2>Work Experience</h2>
@@ -75,4 +79,5 @@
     <footer>
     </footer>
   </body>
+  </script>
 </html>
