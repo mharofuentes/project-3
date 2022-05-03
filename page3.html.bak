@@ -1,11 +1,10 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta charset="utf-8">
 <style>
- {box-sizing: border-box;
-}.topnav {
+ {box-sizing: border-box;}.
+ topnav {
   overflow: hidden;}
 .topnav a {float: left;
 display: block;
@@ -35,21 +34,15 @@ padding: 16px 18px;}
 <style>
 
 	body {background-color: grey;}
-	h1   {
-	color: orange;
-	font-size: 230%;}
-	h2	{
-		color: DarkSlateBlue;
-		font-family: verdana;}
+	h1{color: orange;font-size: 230%;}
+	h2{color: DarkSlateBlue;font-family: verdana;}
 	p {
 	color: pink;
 	font-family: Trebuchet;
 	 border: 2px solid coral;} 
 	 </style>
 	 <head>
-	 <meta charset="UTF-8">
 	 <title>Hamster Species</title>
-	 <script type="text/javascript">
 	</script>
 	 </head>
      
@@ -91,5 +84,4 @@ padding: 16px 18px;}
 	   <footer>
   </footer>
   </body>
-  </script>
   </html>
