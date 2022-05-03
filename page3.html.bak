@@ -1,9 +1,11 @@
 <!DOCTYPE html>
 <html lang="en">
+<head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <style>
-{box-sizing: border-box;}
+*{box-sizing: border-box;}
+
 .topnav {
 	overflow: hidden;}
 	
@@ -12,37 +14,19 @@
 	color: purple;
 	text-align: center;
 	padding: 16px 18px;}
+
 .topnav a:hover {
 	background-color: gray;
 	color: purple;}
 
- {
-  box-sizing: border-box;
-}
+} 
 
-.topnav {
-  overflow: hidden;
-
-}
-.topnav a {
-  float: left;
-  display: block;
-  color: purple;
-  text-align: center;
-  padding: 16px 18px;
- 
-}
-
-.topnav a:hover {
-  background-color: gray;
-  color: purple;
-}
-
-@media screen and (max-width: 300px) {
+@media screen and (max-width: 200px) {
   .topnav a {
     float: none;
     width: 100%;
-  }}
+  }
+ }
   	body {background-color: grey;}
 	h1   {
 	color: orange;
@@ -54,8 +38,8 @@
 	color: pink;
 	font-family: Trebuchet;
 	 border: 2px solid coral;} 
-
-</head>
+</style>
+<head>
 <body>
 
 <div class="topnav">
@@ -63,8 +47,8 @@
   <a href="resume.html">Resume</a>
   <a href="page3.html">Hamster Species</a>
 </div>
+</body>
 	 </style>
-	 <meta charset="UTF-8">
 	 <title>Hamster Species</title>
 	 </head>
 
