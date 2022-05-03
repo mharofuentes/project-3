@@ -39,40 +39,40 @@
 	 border: 2px solid coral;} 
 	 <title>Hamster Species</title>
      
-        <h1 style="font-size:7vw">Different types of Hamster Breeds</h1>
-         <h2 style="font-size:3vw"><em>Syrian Hamster</em></h2>
+        <h1 style="font-size:10vw">Different types of Hamster Breeds</h1>
+         <h2 style="font-size:10vw"><em>Syrian Hamster</em></h2>
 	      <img src="images/images/syrianham.jpeg" alt="Grey Syrian Hamster" style="max-width:100%;height:auto;">
-          <p style="font-size:3vw">Traits: unsociable, calm, nocturnal,likes to be alone </p>
-          <p style="font-size:3vw">Average lifespan: 2-3 years</p>
-	      <p style="font-size:3vw">Average size: around 3-4 inches</p>
+          <p>Traits: unsociable, calm, nocturnal,likes to be alone </p>
+          <p>Average lifespan: 2-3 years</p>
+	      <p>Average size: around 3-4 inches</p>
        
-         <h2 style="font-size:5vw"><em>Chinese Hamster</em></h2>
+         <h2 style="font-size:10vw"><em>Chinese Hamster</em></h2>
 	      <img src="images/images/chinesehamster.jpg" alt="Chinese Hamster" style="max-width:100%;height:auto;">
-          <p style="font-size:3vw">Traits: quick,playful,high maintenance,hyperactive</p>
-	      <p style="font-size:3vw">Average lifespan: 2-3 years</p>
-	      <p style="font-size:3vw">Average size: 3-4 inches 
+          <p>Traits: quick,playful,high maintenance,hyperactive</p>
+	      <p>Average lifespan: 2-3 years</p>
+	      <p>Average size: 3-4 inches 
 	  
-	     <h2 style="font-size:5vw"><em>Roborovski Hamster</em></h2>
+	     <h2 style="font-size:10vw"><em>Roborovski Hamster</em></h2>
 	       <img src="images/images/roboham.jpg" alt="A tiny Robo Hamster" style="max-width:100%;height:auto;">
-	       <p style="font-size:3vw">Traits: sociable, fast, selfish, independent, like to live with other hamsters 
-	       <p style="font-size:3vw">Average lifespan:2.5-3 years 
-	       <p style="font-size:3vw">Average size: 2 inches </p>
+	       <p>Traits: sociable, fast, selfish, independent, like to live with other hamsters 
+	       <p>Average lifespan:2.5-3 years 
+	       <p>Average size: 2 inches </p>
 	     
-	     <h2 style="font-size:5vw"><em>Cambell Russian Hamster</em></h2>
+	     <h2 style="font-size:10vw"><em>Cambell Russian Hamster</em></h2>
 	      <img src="images/images/campbellham.jpg" alt="A Dark Grey Campbell" style="max-width:100%;height:auto;">
-	      <p style="font-size:10vw"> Traits: shy, affectionate, likes extremely quiet places, like hiding </p>
-	      <p style="font-size:10vw">Average lifespan: 1.5-2 years </p>
-	      <p style="font-size:10vw">Average size: 2-4 years </p>
+	      <p> Traits: shy, affectionate, likes extremely quiet places, like hiding </p>
+	      <p>Average lifespan: 1.5-2 years </p>
+	      <p>Average size: 2-4 years </p>
 	    
-	     <h2 style="font-size:5vw">Hamster housing</h2>
+	     <h2 style="font-size:10vw">Hamster housing</h2>
 	       <ul>
-	        <li style="font-size:3vw">All species of hamsters like big and spacious environment. Wired cages are bad. A big plastic container is better.</li>
-	         <li style="font-size:3vw">Containers should be atleast 24 inches by 12 inches. </li>
-	          <li style="font-size:3vw">Lots of places to hide is recommended. With fresh food and water daily.</li>
-	          <li style="font-size:3vw">Quiet and secluded spaces are ideal to place cages </li>
+	        <li>All species of hamsters like big and spacious environment. Wired cages are bad. A big plastic container is better.</li>
+	         <li>Containers should be atleast 24 inches by 12 inches. </li>
+	          <li>Lots of places to hide is recommended. With fresh food and water daily.</li>
+	          <li>Quiet and secluded spaces are ideal to place cages </li>
 	           </ul>
 	   
-	          <p style="font-size:3vw">A great video about hamster shelter requirements </p>
+	          <p>A great video about hamster shelter requirements </p>
 	  <iframe width="560" height="315" src="https://www.youtube.com/embed/Sn2xo5CMX34" title="YouTube video player" allow="accelerometer autoplay clipboard-write encrypted-media gyroscope picture-in-picture" allowfullscreen></iframe>
 	   <footer>
     </footer>
