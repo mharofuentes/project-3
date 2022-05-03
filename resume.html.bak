@@ -23,6 +23,7 @@
   
 	 <meta charset="UTF-8">
     <title>Resume</title>
+	<script type="text/javascript">
 	</script>
 	</head>
       <nav>
@@ -45,8 +46,7 @@
 		<li> Related course work: Java,Python,SQL,Project Management, Network Admin, Enterprise End-User Sys Admin 
 		<!--The div element for the map -->
 		<div id="map"></div>
-		
-		map {
+		#map {
 		height: 400px;
 		/* The height is 400 pixels */
 		width: 100%;
@@ -85,4 +85,5 @@
     <footer>
     </footer>
   </body>
+  </script>
 </html>
