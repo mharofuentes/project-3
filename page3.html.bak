@@ -31,22 +31,23 @@
   <a href="page3.html">Hamster Species</a>
 </div>
 <style>
+</body>
+</html>
 
 	body {background-color: grey;}
-	h1	{
+	h1{
 	color: orange;
 	font-size: 230%;}
-	h2	{
+	h2{
 		color: DarkSlateBlue;
 		font-family: verdana;}
-	p	{
+	p{
 	color: pink;
 	font-family: Trebuchet;
 	 border: 2px solid coral;} 
 	 </style>
-	 </head>
-	</html>	
 	 <title>Hamster Species</title>
+	 </head>
      
         <h1 style="font-size:7vw">Different types of Hamster Breeds</h1>
          <h2 style="font-size:3vw"><em>Syrian Hamster</em></h2>
