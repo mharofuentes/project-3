@@ -4,36 +4,23 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta charset="utf-8">
 <style>
- {
-  box-sizing: border-box;
-}
-
-.topnav {
-  overflow: hidden;
-
-}
-.topnav a {
-  float: left;
-  display: block;
-  color: purple;
-  text-align: center;
-  padding: 16px 18px;
- 
-}
-
+ {box-sizing: border-box;
+}.topnav {
+  overflow: hidden;}
+.topnav a {float: left;
+display: block;
+color: purple;
+text-align: center;
+padding: 16px 18px;}
 .topnav a:hover {
-  background-color: gray;
-  color: purple;
-}
+ background-color: gray;
+ color: purple;}
 
 @media screen and (max-width: 300px) {
   .topnav a {
     float: none;
     width: 100%;
-  }
-}
-</style>
-</head>
+  }}
 <body>
 
 
@@ -59,8 +46,11 @@
 	font-family: Trebuchet;
 	 border: 2px solid coral;} 
 	 </style>
+	 <head>
 	 <meta charset="UTF-8">
 	 <title>Hamster Species</title>
+	 <script type="text/javascript">
+	</script>
 	 </head>
      
         <h1 style="font-size:7vw">Different types of Hamster Breeds</h1>
@@ -99,6 +89,7 @@
 	          <p style="font-size:3vw">A great video about hamster shelter requirements </p>
 	  <iframe width="560" height="315" src="https://www.youtube.com/embed/Sn2xo5CMX34" title="YouTube video player" allow="accelerometer autoplay clipboard-write encrypted-media gyroscope picture-in-picture" allowfullscreen></iframe>
 	   <footer>
-    </footer>
+  </footer>
   </body>
+  </script>
   </html>
