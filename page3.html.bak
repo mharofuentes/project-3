@@ -1,10 +1,10 @@
 <!DOCTYPE html>
-<head>
-<style>
 <html lang="en">
 <meta charset="utf-8">
+<head>
+<style>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
- *{box-sizing: border-box;}
+{box-sizing: border-box;}
 .topnav {
 	overflow: hidden;}
 	
@@ -28,14 +28,17 @@
   <a href="page3.html">Hamster Species</a>
 </div>
 </html>
-body {background-color: grey;}
-	h1{color: orange;
+	body {background-color: grey;}
+	h1   {
+	color: orange;
 	font-size: 230%;}
-	h2{color: DarkSlateBlue;
+	h2	{
+		color: DarkSlateBlue;
 		font-family: verdana;}
-	p {color: pink;
+	p {
+	color: pink;
 	font-family: Trebuchet;
-	 border: 2px solid coral;}
+	 border: 2px solid coral;} 
 	 <title>Hamster Species</title>
 	 </style>
 	 </head>
