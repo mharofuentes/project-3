@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
  *{box-sizing: border-box;}
@@ -27,19 +26,16 @@
   <a href="resume.html">Resume</a>
   <a href="page3.html">Hamster Species</a>
 </div>
-</body>
 </html>
-body {background-color: grey;
-	h1   {
-	color: orange;
+body {background-color: grey;}
+	h1{color: orange;
 	font-size: 230%;}
-	h2	{
-		color: DarkSlateBlue;
+	h2{color: DarkSlateBlue;
 		font-family: verdana;}
-	p {
-	color: pink;
+	p {color: pink;
 	font-family: Trebuchet;
-	 border: 2px solid coral;}}
+	 border: 2px solid coral;}
+	 <head>
 	 <title>Hamster Species</title>
 	 </head>
      
