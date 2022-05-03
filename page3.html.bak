@@ -26,7 +26,6 @@
   <a href="resume.html">Resume</a>
   <a href="page3.html">Hamster Species</a>
 </div>
-</html>
 	body {background-color: grey;}
 	h1   {
 	color: orange;
@@ -39,8 +38,6 @@
 	font-family: Trebuchet;
 	 border: 2px solid coral;} 
 	 <title>Hamster Species</title>
-	 </style>
-	 </head>
      
         <h1 style="font-size:7vw">Different types of Hamster Breeds</h1>
          <h2 style="font-size:3vw"><em>Syrian Hamster</em></h2>
