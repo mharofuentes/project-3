@@ -1,22 +1,12 @@
 <!DOCTYPE html>
 <html lang="en">
-<<<<<<< HEAD
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Hamster Species</title>
+
 {box-sizing: border-box;}
 .topnav {
 	overflow: hidden;}
 	
-=======
-<head>
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<meta charset="utf-8">
-<style>
- {box-sizing: border-box;
-}.topnav {
-  overflow: hidden;}
->>>>>>> parent of 84baafe (changed css error)
 .topnav a {float: left;
 	display: block;
 	color: purple;
@@ -76,16 +66,8 @@
 	 border: 2px solid coral;} 
 
 	 </style>
-<<<<<<< HEAD
 	 <meta charset="UTF-8">
 	 <title>Hamster Species</title>
-=======
-	 <head>
-	 <meta charset="UTF-8">
-	 <title>Hamster Species</title>
-	 <script type="text/javascript">
-	</script>
->>>>>>> parent of 84baafe (changed css error)
 	 </head>
 
      
@@ -127,6 +109,5 @@
 	   <footer>
     </footer>
   </body>
-  </script>
   </html>
 
