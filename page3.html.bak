@@ -1,5 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 @media screen and (max-width:320px) {
@@ -7,29 +5,30 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
- {
+* {
   box-sizing: border-box;
 }
 
 .topnav {
   overflow: hidden;
-  background-color: #2874A6;
+  background-color: #333;
 }
 .topnav a {
   float: left;
   display: block;
-  color: #148F77;
+  color: #f2f2f2;
   text-align: center;
-  padding: 16px 18px;
-  text-decoration: overline;
+  padding: 14px 16px;
+  text-decoration: none;
 }
 
 .topnav a:hover {
-  background-color: 2874A6;
-  color: 148F77;
+  background-color: #ddd;
+  color: black;
 }
 
-@media screen and (max-width: 300px) {
+/ instead of next to each other */
+@media screen and (max-width: 600px) {
   .topnav a {
     float: none;
     width: 100%;
@@ -41,9 +40,9 @@
 
 
 <div class="topnav">
-  <a href="#">"index.html">Homepage</a>
-  <a href="#">"resume.html">Resume</a>
-  <a href="#">"page3.html">Hamster Species</a>
+  <a href="#">"index.html">Homepage</a></li>
+  <a href="#">"resume.html">Resume</a></li>
+  <a href="#">"page3.html">Hamster Species</a></li>
 </div>
 
 </body>
